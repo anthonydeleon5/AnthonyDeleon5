@@ -6,10 +6,12 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 ## ⚠️ Vulnerability Management Projects
 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/anthonydeleon5/End-to-End-Vulnerability-Management-Program-Implementation)**
+- Reduced organizational risk by 100% (Critical/High) by implementing a full-lifecycle vulnerability management program using Tenable Nessus, Azure, and PowerShell remediation scripts.
 
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/anthonydeleon5/threat-hunting-scenario)**
+- Detected and mitigated unauthorized network bypass by leveraging Microsoft Defender for Endpoint and KQL to identify and isolate endpoints running TOR browser.
 
 <hr/>
 
