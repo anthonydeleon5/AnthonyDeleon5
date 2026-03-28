@@ -7,6 +7,9 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/anthonydeleon5/End-to-End-Vulnerability-Management-Program-Implementation)**
 
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/anthonydeleon5/threat-hunting-scenario)**
 
 <hr/>
 
