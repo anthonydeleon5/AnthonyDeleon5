@@ -7,7 +7,8 @@ I'm passionate about cybersecurity and love tackling complex challenges through 
 
 - **[End-to-End Vulnerability Management Program Implementation](https://github.com/anthonydeleon5/End-to-End-Vulnerability-Management-Program-Implementation)**
 - Reduced organizational risk by 100% (Critical/High) by implementing a full-lifecycle vulnerability management program using Tenable Nessus, Azure, and PowerShell remediation scripts.
-
+- **[Automated Windows 11 STIG Compliance & Hardening](https://github.com/anthonydeleon5/DISA-STIG-Remediation)**
+- Developed a PowerShell-driven automation framework to remediate DISA STIG vulnerabilities. Leveraged Tenable Nessus for compliance auditing and Azure for environment testing, successfully transitioning critical security gaps from "Failed" to "Passed" status.
 ## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/anthonydeleon5/threat-hunting-scenario)**
